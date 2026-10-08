@@ -6,6 +6,10 @@
   "item.knightlib.homunculus": "ホムンクルス",
   "block.knightlib.great_chalice": "大聖杯",
 
+  "key.categories.knightlib": "KnightLib",
+  "key.knightlib.campath_editor": "カメラ編集: 開く/閉じる",
+  "key.knightlib.campath_preview": "カメラ編集: プレビュー再生/停止",
+
   "tooltip.item.knightlib.great_essence": "§8§o王でさえいずれ燃え種となる",
   "tooltip.item.knightlib.small_essence": "§8§o何も変えられなかった命の最後のため息",
   "tooltip.item.knightlib.homunculus": "§8§o錬金術によって束縛された不完全な奇跡",
@@ -14,5 +18,27 @@
   "tooltip.item.knightlib.great_chalice": "§8§o聞き覚えのない名を囁く……なのに、なぜか覚えている",
 
   "jei.knightlib.great_chalice_grail_interaction.title": "大聖杯",
-  "jei.knightlib.great_chalice_fill_interaction.title": "大聖杯へ注ぐ"
+  "jei.knightlib.great_chalice_fill_interaction.title": "大聖杯へ注ぐ",
+
+  "knightlib.config.cancel": "キャンセル",
+  "knightlib.config.reset_all": "すべてリセット",
+  "knightlib.config.search": "検索...",
+  "knightlib.config.categories": "カテゴリ",
+  "knightlib.config.category.all": "すべて",
+  "knightlib.config.category.general": "一般",
+  "knightlib.config.option": "%s 個の項目",
+  "knightlib.config.options": "%s 個の項目",
+  "knightlib.config.result": "%s 件の結果",
+  "knightlib.config.results": "%s 件の結果",
+  "knightlib.config.change": "%s 件の変更",
+  "knightlib.config.changes": "%s 件の変更",
+  "knightlib.config.empty": "ここには何もありません",
+  "knightlib.config.empty_search": "「%s」の検索結果は見つかりませんでした",
+  "knightlib.config.tooltip.default": "デフォルト: %s",
+  "knightlib.config.tooltip.range": "範囲: %s - %s",
+  "knightlib.config.tooltip.slider_hint": "Ctrl+Shift+クリックで直接数値を入力できます",
+  "knightlib.config.tooltip.requires_restart": "⟳ 再起動が必要です",
+  "knightlib.config.bridge.title": "%s - 設定",
+  "knightlib.config.bridge.subtitle": "編集する設定を選択してください",
+  "knightlib.config.bridge.back": "← 戻る"
 }
